@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="ELoWorks | Digital Workshop" width="400" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.jpg" />
+    <img src="assets/banner-light.jpg" alt="ELoWorks | Digital Workshop" width="400" />
+  </picture>
 </div>
 
 # By ELo Works
