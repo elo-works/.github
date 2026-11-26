@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.jpg" alt="ELoWorks | Digital Workshop" width="520" />
+  <img src="assets/banner.jpg" alt="ELoWorks | Digital Workshop" width="400" />
 </div>
 
 # By ELo Works
